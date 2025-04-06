@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Database file (if using SQLite)
+*.db
+
+# IDE-specific files
+.idea/  # PyCharm project files
+*.iml
+
+# Miscellaneous
+*.log
